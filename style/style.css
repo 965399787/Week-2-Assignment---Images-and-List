@@ -1,0 +1,40 @@
+#container{
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    /* border: 1px solid black; */
+}
+/* .unordered-list{
+    border: 1px solid black;
+
+}
+.unordered-list img{
+    width: 200px;
+    
+}
+.ordered-list{
+    border: 1px solid black;
+
+}
+.ordered-list img{
+    width: 200px;
+} */
+.list{
+    border: 1px solid black;
+    padding: 5px;
+
+}
+.list img{
+    width: 300px;
+
+}
+dl img{
+    width: 200px;
+}
+.finished-list{
+    border: 1px solid black;
+    padding: 5px;
+}
+.finished-list img{
+    width:100px;
+}
+
